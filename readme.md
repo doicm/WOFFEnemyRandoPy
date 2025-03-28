@@ -16,7 +16,7 @@ Notes:
 folder will need to be placed in the WOFF executable folder (may 
 only work on Windows Steam, as it's untested in other versions).
 To find, go to Steam and right-click the game "World of Final
-Fantasy, click Manage -> Browse local files.... It should take
+Fantasy", click Manage -> Browse local files.... It should take
 you to the folder. Put the enemyRando folder in the WOFF folder
 next to the WOFF executable.
 
