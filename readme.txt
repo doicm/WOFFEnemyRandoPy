@@ -61,7 +61,7 @@ I truncate what random mirages are shown. Regardless, there may be
 more than 12 mirages in an area, which is why the txt was made.
 ==================================================================
 Changelog:
-2025-##-3 - 0.1.0 completed
+2025-28-3 - 0.1.0 completed
 ==================================================================
 
 
