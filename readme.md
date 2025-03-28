@@ -1,6 +1,7 @@
 Enemy Randomizer - World of Final Fantasy
 ==================================================================
 Mod Created By:	Doicm (decentdoicm)
+
 Special Thanks:	WoFF modding community for tools and information,
 and Surihia for csv/csh conversion tool that this tool uses.
 
@@ -22,11 +23,11 @@ next to the WOFF executable.
 2.) I highly recommend creating a backup of your primary
 save file. You can usually find it on Windows in the following:
 
-  %USERPROFILE%\Documents\My Games\WOFF\<user-id>\savedata\
+&ensp;%USERPROFILE%\Documents\My Games\WOFF\<user-id>\savedata\
 
 or in Linux on the following:
 
-  <SteamLibrary-folder>/steamapps/compatdata/552700/pfx/
+&ensp;<SteamLibrary-folder>/steamapps/compatdata/552700/pfx/
 
 Description:
 ==================================================================
