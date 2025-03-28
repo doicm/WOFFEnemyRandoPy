@@ -1,0 +1,22 @@
+0000    Wellspring Woods
+0100    The Nether Nebula
+0200    The Watchplains
+0300    Pyreglow Forest
+0400    Icicle Ridge
+0500    Saronia Docks
+0600    The Dragon Scars
+0700    Valley Seven
+0800    The Windswept Mire
+0900    The Phantom Sands
+1000    Underground Prison
+1100    Mako Reactor 0
+1200    
+1300    Big Bridge
+1400    
+1500    The Train Graveyard
+1600    
+1700    The Sunken Temple
+1800    The Crystal Tower
+1900    
+2000    The Chainroad
+2100    Castle Exnine

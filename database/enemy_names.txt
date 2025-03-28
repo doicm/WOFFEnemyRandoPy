@@ -1,0 +1,266 @@
+1010	Trance Terra
+1011	Vivi
+1015	Yuna
+7000	Tama
+7001	Kyubi
+7002	Yurugu
+7003	Tamamohime
+7004	Fritt
+7005	Affrite
+7006	Ifrit
+7007	Ifreeta
+7008	Weeglee
+7009	Gleed
+7010	Gleefrit
+7011	Bablizz
+7012	Mishiva
+7013	Shiva
+7014	Shivalry
+7015	Brrblizz
+7016	Shivverina
+7017	Shivver
+7018	Zapt
+7019	Zaphr
+7020	Ramuh
+7021	Ramewl
+7022	Joult
+7023	Voultr
+7024	Rairamuh
+7025	Goblin
+7026	Goblin Guard
+7027	Giant Goblin
+7028	Princess Goblin
+7029	Red Cap
+7030	Red Captain
+7031	Chocochick
+7032	Chocobo
+7033	Mecha Chocobo
+7034	Black Chocochick
+7035	Hyperion
+7036	White Nakk
+7037	Fenrir
+7038	Cerberus
+7039	Black Nakk
+7040	Elefenrir
+7041	Fenrir (Boss)
+7042	Babyhemoth
+7043	Behemoth
+7044	Behemonster
+7045	Kuza Kit
+7046	Kuza Beast
+7047	Quacho
+7048	Quacho Queen
+7049	Quachacho
+7050	Moogle
+7051	Kupirate
+7052	Moogle alt?
+7053	Kupicaroon
+7054	Sharqual
+7055	Mega Sharqual
+7056	Bismarck
+7057	Nightsqual
+7058	Mega Nightsqual
+7059	Baby Tonberry
+7060	Tonberry
+7061	Tonberry King
+7062	Baby Paleberry
+7063	Paleberry
+7064	Paleberry King
+7065	Deathskull
+7066	Undead Princess
+7067	Mordskull
+7068	Copper Gnome
+7069	Mythril Giant
+7070	Iron Giant
+7071	Lead Gnome
+7072	Chrome Giant
+7073	Mu
+7074	Skull Eater
+7075	Carbuncle
+7076	Reaver Mu
+7077	Nut Eater
+7078	???
+7079	Sea Snake
+7080	Syldra
+7081	Elasmos
+7082	Leviathan
+7083	Sea Serpent
+7084	Minimantoise
+7085	Adamantoise
+7086	
+7087	Flammantoise
+7088	Brothertaur
+7089	Minotaur
+7090	Sistertaur
+7091	Asterius
+7092	Water Toad
+7093	Lucky Toad
+7094	Wind Toad
+7095	Werebat
+7096	Vampire
+7097	Vampire Prime
+7098	Ice Bat
+7099	Demivampire
+7100	Mimic
+7101	Magic Pot
+7102	Mimic Queen
+7103	Mimic Jackpot
+7104	Magic Jar
+7105	Sand Worm
+7106	Sea Worm
+7107	Right Claw
+7108	Left Claw
+7109	Bomb
+7110	King Bomb
+7111	Bombino
+7112	Flan
+7113	Golden Flan
+7114	Flan Princess
+7115	Mini Flan
+7116	Flan princess alt?
+7117	Mandragora
+7118	Malboro
+7119	Korrigan
+7120	Malboro Menace
+7121	Manticore
+7122	Sphinx
+7123	Sandicore
+7124	Memecoleous
+7125	Unicorn
+7126	Odin
+7127	Nightmare
+7128	Cockatrice
+7129	Valefor
+7130	Phoenix
+7131	Cocadrille
+7132	Nirvalefor
+7133	Phoenix alt?
+7134	Bahamut
+7135	Floating Eye
+7136	Ahriman
+7137	Blood Eye
+7138	Buel
+7139	Dualizard
+7140	Trihyde
+7141	Tiamat
+7142	Bihydra
+7143	Ghidra
+7144	Tiamat alt?
+7145	Entom Guard
+7146	Omega
+7147	Entom Soldier
+7148	Omega Bane
+7149	Serafie
+7150	Siren
+7151	Sylph
+7152	Diva Serafie
+7153	Imp
+7154	Diabolos
+7155	Garchimacera
+7156	Mindflayer
+7157	Kraken
+7158	Ultros
+7159	Squidkraken
+7160	Cenchos
+7161	Red Dragon
+7162	Mega Red Dragon
+7163	Mist Dragon
+7164	Holy Dragon
+7165	Spark Dragon
+7166	Mini Golem
+7167	Water Golem
+7168	Enkidu
+7169	Gilgamesh
+7170	Searcher
+7171	Magitek Armor
+7172	Magitek Armor B
+7173	Death Machine
+7174	Einhander
+7175	???
+7176	XG
+7177	Security Eye
+7178	Magitek Armor A
+7179	War Machine
+7180	Einhander alt?
+7181	Magna Roader
+7182	Magna Roader
+7183	Cactuar
+7184	Gigantuar
+7185	Cactrot
+7186	Gigantrot
+7187	Titan
+7188	Maduin
+7189	Iron Muscles
+7190	Ultima Weapon
+7191	Supraltima Weapon
+7192	Black Mage
+7193	Bahamutian Soldier
+7194	Bahamutian Sergeant
+7195	Bahamutian Knight
+7196	Metalliskull
+7197	Golem Head
+7198	Magna Roader
+7199	Elite Entom
+7200	Death Searcher
+7201	Master Moogle
+7202	Master Cactuar
+7203	Master Tonberry
+7204	
+7205	
+7206	
+7207	Ifrit
+7208	
+7209	Shiva
+7210	
+7211	Ramuh
+7212	
+7213	
+7214	
+7215	Odin
+7216	
+7217	Quacho Queen
+7218	Miney
+7219	Mo
+7220	
+7221	
+7222	
+8000	
+8001	
+8002	
+8003	
+8004	
+8005	
+8006	
+8007	
+8008	
+8009	
+8010	
+8011	
+8012	
+8013	
+8014	
+8015	
+8016	
+8017	
+8018	
+8019	
+8020	
+8021	
+8022	
+8023	
+8024	
+8025	
+8026	
+8027	
+8028	
+8029	
+8030	
+8031	
+8032	
+8033	
+8034	
+8035	
+8036	
+8037	
+8038	
+8039	

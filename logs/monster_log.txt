@@ -1,0 +1,182 @@
+Random encounters: 
+Wellspring Woods: Blood Eye
+Wellspring Woods: Goblin Guard
+The Nether Nebula: Copper Gnome
+The Nether Nebula: Mini Golem
+The Nether Nebula: Cockatrice
+The Nether Nebula: Quachacho
+The Nether Nebula: Dualizard
+The Nether Nebula: Bihydra
+The Nether Nebula: Cactuar
+The Nether Nebula: Quacho
+The Nether Nebula: Mythril Giant
+The Nether Nebula: Sea Worm
+The Nether Nebula: Magna Roader
+The Watchplains: Red Captain
+The Watchplains: Mandragora
+The Watchplains: Right Claw
+The Watchplains: Mini Golem
+The Watchplains: Chocobo
+The Watchplains: Bombino
+The Watchplains: Kuza Beast
+The Watchplains: Manticore
+The Watchplains: Magna Roader
+The Watchplains: Cactuar
+The Watchplains: Mythril Giant
+The Watchplains: Minotaur
+Pyreglow Forest: Bablizz
+Pyreglow Forest: Blood Eye
+Pyreglow Forest: Lead Gnome
+Pyreglow Forest: Minotaur
+Pyreglow Forest: Skull Eater
+Pyreglow Forest: Vampire
+Pyreglow Forest: Moogle
+Pyreglow Forest: Korrigan
+Pyreglow Forest: Kuza Beast
+Icicle Ridge: Mandragora
+Icicle Ridge: Fritt
+Icicle Ridge: Red Cap
+Icicle Ridge: Goblin
+Icicle Ridge: Goblin Guard
+Icicle Ridge: Mu
+Icicle Ridge: Blood Eye
+Icicle Ridge: Flan
+Icicle Ridge: Magitek Armor
+Icicle Ridge: Nightsqual
+Icicle Ridge: Mega Nightsqual
+Icicle Ridge: Kuza Kit
+Icicle Ridge: Red Captain
+Icicle Ridge: Left Claw
+Saronia Docks: Sharqual
+Saronia Docks: Red Cap
+Saronia Docks: Babyhemoth
+Saronia Docks: Blood Eye
+Saronia Docks: Bombino
+Saronia Docks: Kuza Kit
+Saronia Docks: Magitek Armor A
+The Dragon Scars: Floating Eye
+The Dragon Scars: Mini Golem
+The Dragon Scars: Blood Eye
+The Dragon Scars: Nut Eater
+The Dragon Scars: Bombino
+The Dragon Scars: Magna Roader
+The Dragon Scars: Death Searcher
+Valley Seven: Red Captain
+Valley Seven: Deathskull
+Valley Seven: Blood Eye
+Valley Seven: Malboro
+Valley Seven: Brothertaur
+Valley Seven: Baby Tonberry
+Valley Seven: Unicorn
+Valley Seven: Sea Worm
+Valley Seven: Magna Roader
+The Windswept Mire: Floating Eye
+The Windswept Mire: Blood Eye
+The Windswept Mire: Mandragora
+The Windswept Mire: Memecoleous
+The Windswept Mire: Sand Worm
+The Windswept Mire: Bihydra
+The Windswept Mire: Tonberry
+The Phantom Sands: Quachacho
+The Phantom Sands: White Nakk
+The Phantom Sands: Copper Gnome
+The Phantom Sands: Blood Eye
+The Phantom Sands: Flammantoise
+The Phantom Sands: Bomb
+The Phantom Sands: Nut Eater
+The Phantom Sands: Mythril Giant
+The Phantom Sands: Sea Serpent
+Mako Reactor 0: Baby Paleberry
+Mako Reactor 0: Ice Bat
+Mako Reactor 0: Blood Eye
+Mako Reactor 0: Spark Dragon
+Mako Reactor 0: Cocadrille
+Mako Reactor 0: Mini Flan
+Mako Reactor 0: Searcher
+Big Bridge: Mandragora
+Big Bridge: Moogle
+Big Bridge: Reaver Mu
+Big Bridge: Right Claw
+Big Bridge: Blood Eye
+Big Bridge: Korrigan
+Big Bridge: Death Machine
+Big Bridge: Chrome Giant
+Big Bridge: Trihyde
+Big Bridge: Yurugu
+The Train Graveyard: Mandragora
+The Train Graveyard: Babyhemoth
+The Train Graveyard: Blood Eye
+The Train Graveyard: Garchimacera
+The Train Graveyard: Ice Bat
+The Train Graveyard: Werebat
+The Train Graveyard: Sea Worm
+The Train Graveyard: Bomb
+The Train Graveyard: Squidkraken
+The Sunken Temple: Goblin Guard
+The Sunken Temple: Deathskull
+The Sunken Temple: Baby Paleberry
+The Sunken Temple: Blood Eye
+The Sunken Temple: Werebat
+The Sunken Temple: Left Claw
+The Sunken Temple: Mordskull
+The Sunken Temple: Sharqual
+The Sunken Temple: Ghidra
+The Sunken Temple: Mini Golem
+The Sunken Temple: Entom Guard
+The Crystal Tower: Mu
+The Crystal Tower: Cactrot
+The Crystal Tower: Babyhemoth
+The Crystal Tower: Deathskull
+The Crystal Tower: Left Claw
+The Crystal Tower: Mini Flan
+The Crystal Tower: Ahriman
+The Crystal Tower: Blood Eye
+The Crystal Tower: Spark Dragon
+The Crystal Tower: Red Dragon
+The Crystal Tower: Water Toad
+The Crystal Tower: Imp
+The Chainroad: Dualizard
+The Chainroad: Kupirate
+The Chainroad: Red Dragon
+The Chainroad: Baby Tonberry
+The Chainroad: Demivampire
+The Chainroad: Quachacho
+The Chainroad: Paleberry
+The Chainroad: Wind Toad
+The Chainroad: Mindflayer
+The Chainroad: Security Eye
+Castle Exnine: Behemonster
+Castle Exnine: Chocochick
+Castle Exnine: Copper Gnome
+Castle Exnine: Zapt
+Castle Exnine: Black Nakk
+Castle Exnine: White Nakk
+Castle Exnine: Ice Bat
+Castle Exnine: Floating Eye
+Castle Exnine: Sandicore
+Castle Exnine: Cocadrille
+Castle Exnine: Magic Pot
+Castle Exnine: Sea Snake
+Castle Exnine: Water Golem
+Castle Exnine: Sistertaur
+Castle Exnine: Sand Worm
+Castle Exnine: Red Cap
+Castle Exnine: Right Claw
+---
+Rare monsters: 
+Chapter 04: Mist Dragon
+Chapter 05: Kupicaroon
+Chapter 06: Paleberry King
+Chapter 08: Phoenix
+Chapter 10: Titan
+Chapter 11: Cerberus
+Chapter 12: Holy Dragon
+Chapter 14: Black Chocochick
+Chapter 15: Malboro Menace
+Chapter 15: Flan Princess
+Chapter 16: Magic Jar
+Chapter 17: Nightmare
+Chapter 19: Elasmos
+Chapter 21: Gigantuar
+Chapter 21: Gigantrot
+Chapter 21: Iron Giant
